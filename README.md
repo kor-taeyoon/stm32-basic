@@ -2,6 +2,13 @@
 repository for practicing stm32 embedded mcu programming 
 
 
+## Environments
+
+* Board : Nucleo stm32f446ZE
+* Chip : stm32f446ZET6
+* IDE : stm32CubeIDE
+
+
 ## Main skill
 
 * USART
