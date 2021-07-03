@@ -11,13 +11,12 @@ repository for practicing stm32 embedded mcu programming
 
 ## Main skill
 
-* USART
+* UART (Universal Asynchronus Receiver Transmit)
 * TIM_PWM
 * WWDG
 * EXTI
 * SPI
 * I2C
-
 
 
 
